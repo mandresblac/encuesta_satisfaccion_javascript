@@ -9,4 +9,7 @@ boton "back" para regresar al inicio de la encuesta.
   - [Javascript](https://developer.mozilla.org/es/docs/Web/javascript): Lenguaje de programación para desarrollo de forntend y Backend.
 
 ## Imagenes
-![Imagen 1](./img/img1.png)
+
+![Imagen 1](./images/encuesta1.png)
+
+![Imagen 2](./images/encuesta2.png)
